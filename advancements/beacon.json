@@ -1,0 +1,20 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:beacon"
+      },
+      "title": "",
+      "description": "",
+      "announce_to_chat": false,
+      "hidden": true
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:construct_beacon"
+      }
+    },
+    "rewards": {
+      "function": "spices:fx/meridia"
+    }
+  }
+  

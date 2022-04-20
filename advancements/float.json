@@ -1,0 +1,15 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "nbt": "{spiced:81b}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "spices:fx/float"
+    }
+  }

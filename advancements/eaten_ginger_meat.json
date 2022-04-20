@@ -1,0 +1,15 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "nbt": "{spiced:3b}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "spices:fx/g_meat_eaten"
+    }
+  }
